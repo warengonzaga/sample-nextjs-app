@@ -4,6 +4,8 @@
 
 Deploy this sample next.js app or any static site generator (e.g. Next, Nuxt, etc...) to [GitHub Pages](https://pages.github.com/) using new [GitHub Actions](https://github.blog/2022-08-10-github-pages-now-uses-actions-by-default/) as default. 💪
 
+Tutorial: [Deploy Next.js App to GitHub Pages with new GitHub Actions](https://blog.warengonzaga.com/deploy-nextjs-app-to-github-pages-with-new-github-actions)
+
 ---
 
 💻💖☕ by [Waren Gonzaga](https://warengonzaga.com) | [YHWH](https://youtu.be/9vh6Dz9oh8I?t=85) 🙏
